@@ -2,14 +2,15 @@
 open Microsoft.Xna.Framework
 open Microsoft.Xna.Framework.Graphics
 open Microsoft.Xna.Framework.Input
- 
+
 type CavernaDoPixelGame() as this =
     inherit Game()
     let graphics = new GraphicsDeviceManager(this)
  
     let mutable spriteBatch = null
     let mutable texture = null
- 
+    
+
     override Game.LoadContent() =
         spriteBatch <- new SpriteBatch(this.GraphicsDevice)
  
