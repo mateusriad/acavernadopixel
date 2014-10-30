@@ -1,7 +1,25 @@
-﻿// Learn more about F# at http://fsharp.net
-// See the 'F# Tutorial' project for more help.
-
-[<EntryPoint>]
-let main argv = 
-    printfn "%A" argv
-    0 // return an integer exit code
+﻿open System
+open Microsoft.Xna.Framework
+open Microsoft.Xna.Framework.Graphics
+open Microsoft.Xna.Framework.Input
+ 
+type CavernaDoPixelGame() as this =
+    inherit Game()
+    let graphics = new GraphicsDeviceManager(this)
+ 
+    let mutable spriteBatch = null
+    let mutable texture = null
+ 
+    override Game.LoadContent() =
+        spriteBatch <- new SpriteBatch(this.GraphicsDevice)
+ 
+    override Game.Update gameTime =
+        base.Update gameTime
+ 
+    override Game.Draw gameTime =
+        this.GraphicsDevice.Clear(Color.CornflowerBlue)
+        base.Draw gameTime
+ 
+let g = new CavernaDoPixelGame()
+try g.Run()
+finally g.Dispose()

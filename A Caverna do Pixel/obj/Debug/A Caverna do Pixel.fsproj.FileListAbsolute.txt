@@ -1,0 +1,14 @@
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.exe.config
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.XML
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.exe
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.pdb
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\FSharp.Core.dll
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\FSharp.Core.xml
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\obj\Debug\A_Caverna_do_Pixel.exe
+C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\obj\Debug\A_Caverna_do_Pixel.pdb
