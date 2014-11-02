@@ -3,7 +3,7 @@ open Microsoft.Xna.Framework
 open Microsoft.Xna.Framework.Graphics
 open Microsoft.Xna.Framework.Input
  
-type Game1() as this =
+type Jogo() as this =
     inherit Game()
     let graphics = new GraphicsDeviceManager(this)
  
@@ -20,6 +20,6 @@ type Game1() as this =
         this.GraphicsDevice.Clear(Color.CornflowerBlue)
         base.Draw gameTime
  
-let g = new Game1()
+let g = new Jogo()
 try g.Run()
 finally g.Dispose()

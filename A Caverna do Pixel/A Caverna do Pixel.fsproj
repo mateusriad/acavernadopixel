@@ -66,10 +66,17 @@
   <ItemGroup>
     <None Include="App.config" />
     <Compile Include="Jogador.fs" />
-    <Compile Include="Cenário.fs" />
+    <Compile Include="Cenario.fs" />
     <Compile Include="Monstro.fs" />
+    <Compile Include="Inventario.fs" />
+    <Compile Include="Equipamento.fs" />
+    <Compile Include="Armadura.fs" />
     <Compile Include="Item.fs" />
-    <Compile Include="Program.fs" />
+    <Compile Include="Caverna.fs" />
+    <Compile Include="Arma.fs" />
+    <Compile Include="Acessorio.fs" />
+    <Compile Include="Mapa.fs" />
+    <Compile Include="Jogo.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
