@@ -2,6 +2,18 @@
 <doc>
 <assembly><name>A_Caverna_do_Pixel</name></assembly>
 <members>
+<member name="T:Cenário">
+
+</member>
+<member name="T:Item">
+
+</member>
+<member name="T:Jogador">
+
+</member>
+<member name="T:Monstro">
+
+</member>
 <member name="">
 
 </member>

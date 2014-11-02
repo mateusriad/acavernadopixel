@@ -1,14 +1,28 @@
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.exe.config
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.XML
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.exe
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.pdb
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\FSharp.Core.dll
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.dll
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Game.dll
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.xml
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Game.xml
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\FSharp.Core.xml
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\obj\Debug\A_Caverna_do_Pixel.exe
-C:\Users\0xr\Desktop\TMP\MLP\A Caverna do Pixel\A Caverna do Pixel\obj\Debug\A_Caverna_do_Pixel.pdb
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.exe.config
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.XML
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.exe
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.pdb
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\FSharp.Core.dll
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.FbxImporter.dll
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\FSharp.Core.xml
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\obj\Debug\A_Caverna_do_Pixel.exe
+E:\Google Drive\FCG\A Caverna do Pixel\A Caverna do Pixel\obj\Debug\A_Caverna_do_Pixel.pdb
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.XML
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\obj\Debug\A_Caverna_do_Pixel.exe
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\obj\Debug\A_Caverna_do_Pixel.pdb
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.exe.config
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.exe
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\A_Caverna_do_Pixel.pdb
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\FSharp.Core.dll
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.FbxImporter.dll
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll
+C:\Users\0xr\Downloads\A+Caverna+do+Pixel\A Caverna do Pixel\A Caverna do Pixel\bin\Debug\FSharp.Core.xml
